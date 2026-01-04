@@ -41,7 +41,9 @@
 ### ⚙️ Tech Stack
 #### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript,react,nextjs,nodejs,express,mongodb,prisma,mysql,tailwind,html,css,git,linux,docker,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,typescript,javascript,spring,react,nextjs,nodejs,express,mongodb,prisma,mysql,tailwind,html,css,git,linux,docker,tensorflow,pytorch" />
+  - 🔧 Backend experience with **Node.js (Express, Hono)** and **Java (Spring Boot, REST APIs)**
+
 </p>
 
 #### ☁️ Tools & Platforms
@@ -64,13 +66,13 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amisha727&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amisha727&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amisha727&show_icons=true&theme=radical&cache_seconds=86400" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Amisha727&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amisha727&layout=compact&theme=radical" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=amisha727&theme=onedark&row=1&no-bg=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amisha727&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=Amisha727&theme=onedark&row=1&no-bg=true" />
 </p>
 
 ---
