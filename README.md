@@ -27,7 +27,9 @@
 
 - 🧩 Solved 500+ problems across **LeetCode, GFG, and CodeStudio**  
 - 💡 Strong in **Binary Search, Graphs, DP, and Optimized Code Design**  
-- 🥇 Focused on clean, efficient problem-solving and logical thinking  
+- 🥇 Focused on clean, efficient problem-solving and logical thinking
+- Backend experience with **Node.js (Express, Hono)** and **Java (Spring Boot, REST APIs)**
+
 
 ---
 
@@ -43,7 +45,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,typescript,javascript,spring,react,nextjs,nodejs,express,mongodb,prisma,mysql,tailwind,html,css,git,linux,docker,tensorflow,pytorch" />
 </p>
-#### Backend experience with **Node.js (Express, Hono)** and **Java (Spring Boot, REST APIs)**
+
 
 #### ☁️ Tools & Platforms
 <p align="left">
