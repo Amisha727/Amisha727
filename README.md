@@ -11,7 +11,8 @@
 ### 🚀 About Me
 - 🔭 Currently working on **a Medium-like Blogging Platform**  
 - 🌱 Learning **Advanced DSA (C++), Cloudflare Workers, JWT Auth, Hono Middleware, ML & Linux**  
-- 👯 Open to collaborate on **Full Stack, AI-integrated, or Open Source projects**  
+- 👯 Open to collaborate on **Full Stack, AI-integrated, or Open Source projects**
+- 🔧 Backend experience with **Node.js (Express, Hono)** and **Java (Spring Boot, REST APIs)** 
 - 💬 Ask me about **Full Stack Web Development, DSA, and Backend Systems**  
 - 📫 Reach me at **amishajha1208@gmail.com**  
 - ⚡ Fun fact: *I debug for fun and treat bugs like brain teasers — not errors.*  
@@ -28,7 +29,6 @@
 - 🧩 Solved 500+ problems across **LeetCode, GFG, and CodeStudio**  
 - 💡 Strong in **Binary Search, Graphs, DP, and Optimized Code Design**  
 - 🥇 Focused on clean, efficient problem-solving and logical thinking
-- Backend experience with **Node.js (Express, Hono)** and **Java (Spring Boot, REST APIs)**
 
 
 ---
